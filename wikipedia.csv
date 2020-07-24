@@ -1,0 +1,9 @@
+id,name,start_date,end_date,replaces,replaced_by
+Q335038,"Peter Carington, 6th Baron Carrington",1974-01-08,1974-03-04,,Q334327
+Q334327,Eric Varley,1974-03-05,1975-06-10,Q335038,Q332412
+Q332412,Tony Benn,1975-06-10,1979-05-04,Q334327,Q333046
+Q333046,"David Howell, Baron Howell of Guildford",1979-05-05,1981-09-14,Q332412,Q335078
+Q335078,Nigel Lawson,1981-09-14,1983-06-11,Q333046,Q333858
+Q333858,"Peter Walker, Baron Walker of Worcester",1983-06-11,1987-06-13,Q335078,Q327810
+Q327810,Cecil Parkinson,1987-06-13,1989-07-24,Q333858,Q334298
+Q334298,"John Wakeham, Baron Wakeham",1989-07-24,1992-04-11,Q327810,Q584148
