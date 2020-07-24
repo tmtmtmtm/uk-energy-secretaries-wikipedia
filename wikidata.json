@@ -1,0 +1,98 @@
+[
+  {
+    "item": {
+      "value": "Q333046",
+      "label": "David Howell, Baron Howell of Guildford"
+    },
+    "statement": "Q333046$33FFD75E-3099-4A2A-B3F3-F46C5223A6C3"
+  },
+  {
+    "item": {
+      "value": "Q334327",
+      "label": "Eric Varley"
+    },
+    "statement": "Q334327$B01DA04A-8254-457D-BCEF-DAEDB0A11D0F"
+  },
+  {
+    "item": {
+      "value": "Q334298",
+      "label": "John Wakeham, Baron Wakeham"
+    },
+    "statement": "Q334298$2E4A71F1-2FEE-475D-B4A2-F464DA611AA1"
+  },
+  {
+    "item": {
+      "value": "Q333858",
+      "label": "Peter Walker, Baron Walker of Worcester"
+    },
+    "statement": "Q333858$3F182922-00CE-4136-80E6-7DC36E0DA785"
+  },
+  {
+    "item": {
+      "value": "Q327810",
+      "label": "Cecil Parkinson"
+    },
+    "statement": "Q327810$E32B1428-A063-49BC-B45B-A9FC48B43EB4"
+  },
+  {
+    "item": {
+      "value": "Q335038",
+      "label": "Peter Carington, 6th Baron Carrington"
+    },
+    "start": {
+      "value": "1974-01-01T00:00:00Z",
+      "precision": "10"
+    },
+    "end": {
+      "value": "1974-03-01T00:00:00Z",
+      "precision": "10"
+    },
+    "statement": "Q335038$E7CD4675-94DD-4176-AF81-2B31A96F40EB"
+  },
+  {
+    "item": {
+      "value": "Q332412",
+      "label": "Tony Benn"
+    },
+    "replaces": {
+      "value": "Q334327",
+      "label": "Eric Varley"
+    },
+    "replacedBy": {
+      "value": "Q333046",
+      "label": "David Howell, Baron Howell of Guildford"
+    },
+    "start": {
+      "value": "1975-06-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332412$98045098-4306-4DBE-A80A-6AEB0C9FB902"
+  },
+  {
+    "item": {
+      "value": "Q335078",
+      "label": "Nigel Lawson"
+    },
+    "replaces": {
+      "value": "Q333046",
+      "label": "David Howell, Baron Howell of Guildford"
+    },
+    "replacedBy": {
+      "value": "Q333858",
+      "label": "Peter Walker, Baron Walker of Worcester"
+    },
+    "start": {
+      "value": "1981-09-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1983-06-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q335078$2B4CBE1F-8E26-4447-AADB-6B3D742CBF3C"
+  }
+]
